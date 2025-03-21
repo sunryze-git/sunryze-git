@@ -20,8 +20,8 @@ i have taken a python and c++ course and learned .net on my own
 - bash
 - lua
 
-you can find me at:
-bsky: sunryze.bsky.app
-discord: sunryze
+## you can find me at:
+- bsky: sunryze.bsky.app
+- discord: sunryze
 
 i am looking for opportunities!!!!!
