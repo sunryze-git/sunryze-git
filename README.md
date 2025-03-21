@@ -1,3 +1,5 @@
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/feac9eae-e393-4baa-ad60-3d54ac26eb93)
+
 # hi im sunryze
 
 i make code in numerous languages to satisfy my hyperfixations in quite useless problems. i like operating systems, vintage technology, literally anything autistic
