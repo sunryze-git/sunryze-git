@@ -1,29 +1,20 @@
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/feac9eae-e393-4baa-ad60-3d54ac26eb93)
 
-# hi im sunryze
+# hi! im sunryze
 
-i make code in numerous languages to satisfy my hyperfixations in quite useless problems. i like operating systems, vintage technology, literally anything autistic
+i am a programmer who makes random things that may or may not ever get completed because i find a random hyperfixation! i like vintage tech, programming (ofc), and games. im soft
 
-i may in fact be of the feminine boy variety.....
-
-i have taken a python and c++ course and learned .net on my own
-
-## i have made:
-- discord bots in python and c#
-- gdi malware in c#
-- simple stuff in c++
-
-## i can code in:
-- c#
-- python
-- javascript
-- c++ (barely)
-- powershell
-- bash
-- lua
+## i have coded in:
+- C#
+- C++
+- Python
+- JavaScript
+- Bash
+- PowerShell
+- Lua
 
 ## you can find me at:
 - bsky: sunryze.bsky.app
 - discord: sunryze
 
-i am looking for opportunities!!!!!
+if you wanna talk to me about some opportunity pls feel free!
