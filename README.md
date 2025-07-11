@@ -10,6 +10,7 @@ i am a programmer who makes random things that may or may not ever get completed
 - Bash
 - PowerShell
 - Lua
+- Rust
 
 ## you can find me at:
 - bsky: sunryze.bsky.app
